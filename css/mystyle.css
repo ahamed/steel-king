@@ -1,0 +1,92 @@
+body
+{
+    background:lightgray;
+    width: 80%;
+    margin: 0 auto;
+    padding: 0 auto;
+    font: 100% Arial, Arial, Helvetica, sans-serif;
+}
+#menu
+{
+    margin: 1%;
+    background: lightslategray;
+}
+table{
+    width:98%;
+    margin:1%;
+}
+td{
+    text-align:center;
+    padding:0% 1%;
+    margin:0% 5%;
+}
+#about-us
+{
+    width:96%;
+    margin:1%;
+    background:ivory;
+    text-align: left;
+    padding:1%
+}
+#contact-us
+{
+    width:98%;
+    margin:1%;
+    background:ivory;
+    text-align: center;
+}
+h1
+{
+    margin: 1%;
+    background: gainsboro;
+    font-family: fantasy;
+    font-size: 4em;
+    text-align: center;
+    font-weight: 300;
+}
+
+.menu-item
+{
+    display: inline;
+    padding:0% 8%;
+    font-weight: bolder;
+    text-decoration: none;
+}
+img
+{
+    width:32.9%;
+}
+#greetings
+{
+    padding:1%;
+    margin:1%;
+    background:ivory;
+    width: 64%;
+    float: left;
+}
+
+#new-stock
+{
+    float: right;
+    margin:1%;
+    background: peachpuff;
+    width: 30%;
+}
+
+#header
+{
+    margin: 1%;
+    background:gray;
+}
+a
+{
+    text-decoration: none;
+    color: black;
+}
+#footer
+{
+    text-align:center;
+    margin: 1%;
+    clear:both;
+    background: gray;
+}
