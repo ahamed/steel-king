@@ -35,7 +35,7 @@ td{
     background:ivory;
     text-align: center;
 }
-h1
+#banner
 {
     margin: 1%;
     background: gainsboro;
@@ -54,8 +54,7 @@ h1
 }
 img
 {
-    width:100%;
-    height: 32.9%;
+    width:32.9%;
 }
 #greetings
 {

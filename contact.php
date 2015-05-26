@@ -14,24 +14,19 @@
     </a>
     <div id="menu">
         <ul>
-            <a href="index.html"><li class="menu-item">Home</li></a>
-            <a href="about.html"><li class="menu-item">About Us</li></a>
-            <a href="contact.html"><li class="menu-item">Contact Us</li></a>
-            <a href="stock.html"><li class="menu-item">Stock List</li></a>
-        </ul>
+                    <a href="index.php"><li class="menu-item">Home</li></a>
+                    <a href="about.php"><li class="menu-item">About Us</li></a>
+                    <a href="contact.php"><li class="menu-item">Contact Us</li></a>
+                    <a href="stock.php"><li class="menu-item">Stock List</li></a>
+                </ul>
     </div>
     <div id="header">
         <img src="images/1.JPG">
-        <img src="images/2.JPG">
-        <img src="images/3.JPG">
     </div>
-    <div id="about-us">
+    <div id="contact-us">
         <h1 style="font-weight:bolder;background:ivory; font-size:x-large;text-decoration: underline">Steel King International</h1>
-        <p>
-            About us goes here.
-        </p>
+        <p>Contact Goes here.</p>
     </div>
-
     <div id="footer">
         <a>&COPY;</a>
         <a href="http://www.solutionit.com" target="_blank">Solution IT</a>

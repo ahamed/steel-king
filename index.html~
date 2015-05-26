@@ -9,7 +9,7 @@
     <body>
         <a href="index.html">
             <div id="banner">
-              <h1>Steel King International</h1>
+              <p>Steel King International</p>
             </div>
         </a>
         <div id="menu">

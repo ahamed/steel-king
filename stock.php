@@ -13,17 +13,15 @@
         </div>
     </a>
     <div id="menu">
-        <ul>
-            <a href="index.html"><li class="menu-item">Home</li></a>
-            <a href="about.html"><li class="menu-item">About Us</li></a>
-            <a href="contact.html"><li class="menu-item">Contact Us</li></a>
-            <a href="stock.html"><li class="menu-item">Stock List</li></a>
-        </ul>
+       <ul>
+                   <a href="index.php"><li class="menu-item">Home</li></a>
+                   <a href="about.php"><li class="menu-item">About Us</li></a>
+                   <a href="contact.php"><li class="menu-item">Contact Us</li></a>
+                   <a href="stock.php"><li class="menu-item">Stock List</li></a>
+               </ul>
     </div>
     <div id="header">
         <img src="images/1.JPG">
-        <img src="images/2.JPG">
-        <img src="images/3.JPG">
     </div>
     <table style="border: solid black">
         <tr>
